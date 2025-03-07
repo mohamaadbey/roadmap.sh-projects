@@ -1,1 +1,1 @@
-Hey, this is my solution to that prject from "https://roadmap.sh/projects/single-page-cv"
+Hey, this is my solution to this project from "https://roadmap.sh/projects/single-page-cv"
